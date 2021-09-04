@@ -5,10 +5,10 @@ This app is an e-commerce platform which uses Redux.
 ## Getting Started
 * clone me, or fork me
   
-🌎 live at: [reduxStore link]()
+🌎 live at: [reduxStore link](https://redux-store-75.herokuapp.com/)
 
 Screen shot of the deployed app:
-![Screenshot:]()
+![Screenshot:](./client/src/assets/screenshot.png)
 
 ## Deployment
 
